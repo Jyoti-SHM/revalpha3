@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+# Block common build/utility files from being indexed
+Disallow: /build-*.js
+Disallow: /gen-*.js
+Disallow: /convert.py
+
+Sitemap: https://revalpha.co/sitemap.xml

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="44" viewBox="0 0 220 44" role="img" aria-label="RevAlpha">
+  <title>RevAlpha</title>
+  <!-- Revenue growth mark -->
+  <g>
+    <rect x="0" y="0" width="44" height="44" rx="12" fill="none" stroke="#EAD06A" stroke-opacity="0.35"/>
+    <path d="M9 30 L17 22 L23 27 L34 13" fill="none" stroke="#EAD06A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="34" cy="13" r="3.2" fill="#EAD06A"/>
+    <path d="M9 34 L17 26 L23 31 L34 17" fill="none" stroke="#F4E7A5" stroke-width="1" stroke-opacity="0.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <!-- Wordmark -->
+  <text x="56" y="30" font-family="'Fraunces','DM Serif Display',Georgia,'Times New Roman',serif" font-size="27" font-weight="600" letter-spacing="-0.5" fill="#F5F7FA">Rev<tspan fill="#EAD06A">Alpha</tspan></text>
+</svg>
